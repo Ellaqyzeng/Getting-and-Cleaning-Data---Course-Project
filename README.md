@@ -3,7 +3,7 @@
 This is the course project for the Getting and Cleaning Data Coursera course.
 
 
-# Assignment criteria:
+## Assignment criteria:
 
 1. A code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
 
@@ -16,7 +16,7 @@ This is the course project for the Getting and Cleaning Data Coursera course.
 
 
 
-# The included R script, run_analysis.R, conducts the following:
+## The included R script, run_analysis.R, conducts the following:
 
 1. Download the dataset from web if it does not already exist in the working directory.
 
